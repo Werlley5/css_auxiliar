@@ -32,11 +32,11 @@
 
 .center-x (alinha na horizontal)
 
-.center-y (alinha na vertical)
-
 .start-x (alinha ao início do elemento pai na horizontal)
 
 .end-x (alinha ao final do elemento pai na horizontal)
+
+.center-y (alinha na vertical)
 
 .start-y (alinha ao início do elemento pai na vertical)
 
