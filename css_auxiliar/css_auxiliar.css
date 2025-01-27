@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* container */
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+/* <---------------------> */
+
+/* widths */
+
+.w33 {
+    width: 33.3%;
+}
+
+.w40 {
+    width: 40%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.w60 {
+    width: 60%;
+}
+
+.w100 {
+    width: 100%;
+}
+
+/* <------------------------> */
+
+/* metodos do display flex */
+
+.display-flex {
+    display: flex;
+}
+
+.s-b {
+    justify-content: space-between;
+}
+
+.s-a {
+    justify-content: space-around;
+}
+
+.center-x {
+    justify-content: center;
+}
+
+.start-x {
+    justify-content: flex-start;
+}
+
+.end-x {
+    justify-content: flex-end;
+}
+
+.center-y {
+    align-items: center;
+}
+
+.start-y {
+    align-items: flex-start;
+}
+
+.end-y {
+    align-items: flex-end;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.c-r {
+    flex-direction: column-reverse;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.r-r {
+    flex-direction: row-reverse;
+}
+
+/* <----------------------------> */
+
+/* alinhamento de textos */
+
+.text-center {
+    text-align: center;
+}
+
+.text-start {
+    text-align: start;
+}
+
+.text-end {
+    text-align: end;
+}
+
+/* <-----------------------------> */

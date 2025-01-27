@@ -1,0 +1,67 @@
+<-- Documentação css_auxiliar -->
+
+/* container */
+
+.container
+
+/* <---------------------> */
+
+
+/* widths */
+
+.w33 (33.3%)
+
+.w40 (40%)
+
+.w50 (50%)
+
+.w60 (60%)
+
+.w100 (100%)
+
+/* <------------------------> */
+
+
+/* metodos do display flex */
+
+.display-flex
+
+.s-b (space-between)
+
+.s-a (space-around)
+
+.center-x (alinha na horizontal)
+
+.center-y (alinha na vertical)
+
+.start-x (alinha ao início do elemento pai na horizontal)
+
+.end-x (alinha ao final do elemento pai na horizontal)
+
+.start-y (alinha ao início do elemento pai na vertical)
+
+.end-y (alinha ao final do elemento pai na vertical)
+
+.column
+
+.c-r (column-reverse)
+
+.row
+
+.r-r (row-reverse)
+
+/* <----------------------------> */
+
+
+/* alinhamento de textos */
+
+.text-center
+
+.text-start
+
+.text-end
+
+/* <-----------------------------> */
+
+
+Obs: reset das configurações padrões do navegador incluido.
