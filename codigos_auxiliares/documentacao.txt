@@ -75,6 +75,7 @@ alinhamento de textos {
 
 Obs: reset das configurações padrões do navegador incluido. Incluir o arquivo css: <link rel="stylesheet" href="codigos_auxiliares/css_auxiliar.css">
 
+CDN font-awesome: https://cdnjs.com/libraries/font-awesome
 
                 <-- Documentação js_auxiliar -->
 
